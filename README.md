@@ -1,5 +1,5 @@
 
-## Hi there I'm Rychillie <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+## Hi there I'm Rychillie <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="auto" width="30">
 ### I'm a Front-end Engineer and Content Creator based in Brazil
 
 A young Frontend developer who wants to share his knowledge. Always looking to evolve and improve in all aspects.
