@@ -4,7 +4,7 @@
 
 A young Frontend developer who wants to share his knowledge. Always looking to evolve and improve in all aspects.
 
-- 🏢 I'm currently working at **[Trivod](https://www.trivod.com/).**
+- 🏢 I'm currently not working.
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`
 - 🌍 I'm mostly active within the **FrontEnd & Mobile Community**
 - 🌱 Learning all about **Coding on iPad**
