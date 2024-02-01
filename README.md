@@ -5,9 +5,9 @@
 A young Software Engineer who wants to share his knowledge. Always looking to evolve and improve in all aspects.
 
 - 🏢 I'm currently not working.
-- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`
-- 🌍 I'm mostly active within the **FrontEnd & Mobile Community**
-- 🌱 Learning all about **Coding on iPad**
+- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.swift`
+- 🌍 I'm mostly active within the **FullStack Web & Mobile Community**
+- 🌱 Learning all about **Swift**
 - 👨‍💻 Current project [Aprenda Swift](https://github.com/CodandoApple/aprenda-swift)
 
 ### 🤝🏻 Connect with Me
